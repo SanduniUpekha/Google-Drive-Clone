@@ -14,14 +14,6 @@ This clone project focuses on the user interface and design aspects, and does no
 - Responsive design using Material CSS framework
 - User-friendly interface for easy navigation
 
-## Getting Started
-
-To explore the Google Drive Clone project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/google-drive-clone.git`
-2. Navigate to the project directory: `cd google-drive-clone`
-3. Open the `index.html` file in your preferred web browser.
-
 ## Usage
 
 - Navigate through the folder structure to see the visual representation of folders and files.
